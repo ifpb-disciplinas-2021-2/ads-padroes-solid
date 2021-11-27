@@ -2,7 +2,7 @@
 
 ## Encontros
 
-*[Encontro 1 - Conceitos Básicos ](https://github.com/ifpb-disciplinas-2021-2/ads-padroes-solid/commit/)*
+*[Encontro 1 - Conceitos Básicos ](https://github.com/ifpb-disciplinas-2021-2/ads-padroes-solid/commit/61bdb26b54c819f8b07fec183bd3f3445d430da1)*
 
 
 ## Executando o projeto
